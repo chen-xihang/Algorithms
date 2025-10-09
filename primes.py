@@ -8,6 +8,21 @@ def is_prime(x):
             return False
     return True
 
+def first_composites(n):
+    if n <= 0:
+        raise ValueError("n must be positive")
+    ans = []
+    i = 4
+
+    while not len(ans)==n:
+        if not is_prime(i):
+            ans.append(i)
+        i = i + 1
+    return ans
+
+first_composites(2)
+
+
 # Sieve of Eratosthenes to count number of primes <= n
 def count_primes(n):
     x = [True]*(n+1)
