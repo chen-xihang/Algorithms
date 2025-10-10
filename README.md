@@ -36,5 +36,6 @@ The repository covers a range of algorithms and data structures, including (but 
   - Hash Tables  
 
 ---
-
+## 💬 Author
+This is created solely by Xihang Chen. You can contact me via my [LinkedIn](https://www.linkedin.com/in/xihang-chen-7a1658221/) The repo is under MIT License.
 
