@@ -19,8 +19,8 @@ The repository covers a range of algorithms and data structures, including (but 
   - Binary Search  
 
 - **Graph Algorithms**
-  - Breadth-First Search (BFS)  
-  - Depth-First Search (DFS)  
+  - Breadth-First Search (BFS) (in-oder, pre_order, post_order)  
+  - Depth-First Search (DFS) (in-oder, pre_order, post_order)  
   - Dijkstra’s Algorithm  
   - Floyd–Warshall Algorithm  
 
