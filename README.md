@@ -25,10 +25,7 @@ The repository covers a range of algorithms and data structures, including (but 
   - Floyd–Warshall Algorithm  
 
 - **Dynamic Programming**
-  - Fibonacci Sequence  
-  - Longest Common Subsequence  
-  - Knapsack Problem   
-(see https://github.com/chen-xihang/DynamicProgramming)
+See https://github.com/chen-xihang/DynamicProgramming
 
 - **Data Structures**
   - Linked Lists  
