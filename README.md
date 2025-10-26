@@ -1,6 +1,6 @@
 # Algorithms
 
-A curated collection of standard algorithms, implemented for storing purposes. Compiled by Xihang Chen.
+A curated collection of algorithms, some standard, some inspired by popular questions. Compiled by Xihang Chen.
 
 ---
 
