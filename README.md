@@ -27,7 +27,8 @@ The repository covers a range of algorithms and data structures, including (but 
 - **Dynamic Programming**
   - Fibonacci Sequence  
   - Longest Common Subsequence  
-  - Knapsack Problem  
+  - Knapsack Problem   
+(see https://github.com/chen-xihang/DynamicProgramming)
 
 - **Data Structures**
   - Linked Lists  
