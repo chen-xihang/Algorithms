@@ -1,3 +1,33 @@
+def sqrt(x):
+    """
+    Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well. LeetCode #69
+    """
+    if x <0:
+        raise ValueError("Cannot take the square root of a negative number.")
+    if x == 0 or x == 1:
+        return x
+    
+    l = 0
+    u = x
+    while l <= u:
+        m = (l+u)//2
+        if m*m == x:
+            return m
+        if m*m < x:
+            l = m + 1
+        else:
+            u = m - 1
+    return u 
+
+
+# Examples
+sqrt(6)
+sqrt(0)
+sqrt(-1)
+sqrt(45)
+
+
+
 def squareRootWithPrecision(number, precision):
     if number < 0:
         raise ValueError("Cannot compute square root of a negative number.")
