@@ -2,12 +2,12 @@ def maxArray(array):
     if len(array) == 0:
         return None
     else:
-        max = array[0]
+        max_val = array[0]
         for num in array[1:]:
-            if num >=max:
-                max = num
+            if num >=max_val:
+                max_val = num
         
-        return max
+        return max_val
     
 
 ## use case
