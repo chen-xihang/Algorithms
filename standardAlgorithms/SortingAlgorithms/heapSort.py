@@ -12,4 +12,4 @@ def heapSort(arr):
     return sorted_arr
      
 # Test cases
-heapSort([1,3,5,2,5,1,5,2,4,52,3])
+print(heapSort([1,3,5,2,5,1,5,2,4,52,3]))
