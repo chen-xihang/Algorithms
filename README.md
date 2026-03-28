@@ -1,6 +1,6 @@
 # Algorithms
 
-A curated collection of algorithms, some standard, some inspired by popular questions. Compiled by Xihang Chen.
+A curated collection of algorithms, some standard, some inspired by popular questions. 
 
 ---
 
@@ -21,11 +21,6 @@ The repository covers a range of algorithms and data structures, including (but 
 - **Graph Algorithms**
   - Breadth-First Search (BFS) (in-oder, pre_order, post_order)  
   - Depth-First Search (DFS) (in-oder, pre_order, post_order)  
-  - Dijkstra’s Algorithm  
-  - Floyd–Warshall Algorithm  
-
-- **Dynamic Programming**
-See https://github.com/chen-xihang/DynamicProgramming
 
 - **Data Structures**
   - Linked Lists  
